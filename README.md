@@ -1,2 +1,2 @@
 # ztoa-vtumuluri
-Zero To App of Vasishta Tumuluri (is AWESOME)
+Zero To App of Vasishta Tumuluri
